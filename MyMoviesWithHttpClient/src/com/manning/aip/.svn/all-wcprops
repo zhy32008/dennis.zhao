@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/539/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip
+END
+Movie.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/Movie.java
+END
+MovieAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/MovieAdapter.java
+END
+ConnectionChangedBroadcastReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/ConnectionChangedBroadcastReceiver.java
+END
+UpdateNoticeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/538/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/UpdateNoticeTask.java
+END
+GetMovieRatingTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/GetMovieRatingTask.java
+END
+MyMovies.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/MyMovies.java
+END
+SplashScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/SplashScreen.java
+END
+DownloadTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/DownloadTask.java
+END

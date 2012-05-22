@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/xml
+END
+SAXMovieParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/xml/SAXMovieParser.java
+END
+XmlPullMovieParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/src/com/manning/aip/xml/XmlPullMovieParser.java
+END

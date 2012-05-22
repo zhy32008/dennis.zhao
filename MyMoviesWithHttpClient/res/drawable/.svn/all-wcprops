@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/465/trunk/ch09/MyMoviesWithHttpClient/res/drawable
+END
+film_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/res/drawable/film_bg.png
+END
+list_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/465/trunk/ch09/MyMoviesWithHttpClient/res/drawable/list_selector.xml
+END
+title.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/res/drawable/title.9.png
+END
+list_item_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/res/drawable/list_item_default.xml
+END
+splash.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/res/drawable/splash.png
+END
+list_item_pressed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/196/trunk/ch09/MyMoviesWithHttpClient/res/drawable/list_item_pressed.xml
+END
